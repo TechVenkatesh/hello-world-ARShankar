@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Old users list ..... Venkatesh Revathi Register for DevOps Learning</h1>
+    <h1>Old users list . Venkatesh Revathi Register for DevOps Learning</h1>
     <p>Please fill in this form to create an Devops account.</p>
     <hr>
      
